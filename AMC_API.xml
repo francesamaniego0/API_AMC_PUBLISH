@@ -4,6 +4,16 @@
         <name>AMC_API</name>
     </assembly>
     <members>
+        <member name="M:AMC_API.Controllers.DashboardController.GetWebApplicationHealthCheckDashboardByDate(AMC.BOL.Parameter.HealthDataParameterByDate)">
+            <remarks>
+            Get Web Application the system
+            </remarks>
+        </member>
+        <member name="M:AMC_API.Controllers.DashboardController.GetWebsiteHealthCheckDashboardByDate(AMC.BOL.Parameter.HealthDataParameterByDate)">
+            <remarks>
+            Get Web Application the system
+            </remarks>
+        </member>
         <member name="M:AMC_API.Controllers.HealthCheckController.GetWebApplicationCheck(AMC.Object.Parameter.GetWebApplicationCheckParameter)">
             <remarks>
             Get all product from the system
